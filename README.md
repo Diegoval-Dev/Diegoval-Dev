@@ -1,7 +1,19 @@
-<h1 align="center">Hi 👋, I'm Diego Valenzuela</h1>
-<h3 align="center">A computer science engineering student</h3>
+<h1 align="center">Diego Valenzuela</h1>
+<h3 align="center">I'm a computer science engineering student at UVG</h3>
+
+🌟 I thrive on continuous learning and am deeply fascinated by subjects like mathematics and physics, which complement my journey in software engineering. I'm not just a programmer; I'm a lifelong learner who loves to explore and understand the intellectual capacities of the human mind.
+  
+- 🚀 My primary goal is to become a skilled software engineer, and I'm currently focusing on mobile app development and web development to broaden my skill set.
+
+- 👨‍💻 I've had the privilege to work on various projects, including a business management application, websites, and Android applications. Each project has been a valuable opportunity for me to apply my skills and expand my knowledge.
+
+- 💪 As a dedicated athlete and a disciplined individual, I apply the principles of sportsmanship and determination to my work. My commitment to improvement extends beyond the code; it's a way of life.
+
+- 🔬 I approach every aspect of life with a scientific mindset, driven by an insatiable curiosity about how things work and how we can improve. I'm passionate about applying the scientific method to solve problems, both in code and in life.
 
 - 🌱 I’m currently learning **Android development with Jetpack Compose, and frontend web development**
+
+- 📚 When I'm not coding, you can find me buried in books, exploring new coding challenges, or delving into the fascinating world of science.
 
 - 📫 How to reach me **diegopablo012@gmail.com**
 
