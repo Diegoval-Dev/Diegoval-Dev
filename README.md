@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full stack web developer and computer science engineering student at UVG</p>
+<p align="left">Full stack software engineer and computer science engineering student at UVG</p>
 
 ###
 
