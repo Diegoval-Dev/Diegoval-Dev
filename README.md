@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full stack software engineer and computer science engineering student at UVG</p>
+<p align="left">Software Engineer specializing in AI Systems · Computer Science Engineer @ UVG</p>
 
 ###
 
@@ -10,11 +10,68 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first “Hello, World!” in Java back in 2019.<br>📚 I’m currently diving into Transformer architectures, Attention mechanisms and advanced compiler construction techniques.<br>💻 Currently working as a Full Stack developer with Next.js on the frontend (React) and NestJS on the backend.</p>
+<p align="left">I design and engineer scalable full-stack and AI systems, blending formal computer science foundations, distributed architectures, and modern LLM tooling into production-grade solutions.<br><br>I'm a Computer Science Engineer from Universidad del Valle de Guatemala specializing in applied AI: LLM-powered systems, RAG pipelines, and model fine-tuning, backed by strong distributed-systems and compiler-level foundations. I care about taking AI from prototype to production — retrieval architectures, prompt engineering, and fine-tuning pipelines that actually hold up under real workloads.<br><br>Currently working as a Fullstack Software Engineer at Nimble, building and extending a core Django/SvelteKit platform to deliver custom web applications across diverse client domains, while driving AI tooling adoption within the team — spanning REST API design, data modeling, responsive UIs, and third-party integrations under agile SCRUM workflows.</p>
 
 ###
 
-<h2 align="left">🚀 Daily use (Full-Stack Web):</h2>
+<h2 align="left">🤖 AI Specialization</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="huggingface logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/anthropic.svg" height="40" alt="anthropic logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+</div>
+
+<ul align="left">
+  <li><b>Fine-tuning (LoRA):</b> parameter-efficient adaptation of open-weight LLMs for domain-specific tasks</li>
+  <li><b>RAG pipelines:</b> retrieval-augmented generation over vector stores, chunking and re-ranking strategies</li>
+  <li><b>Prompt engineering:</b> structured prompting, few-shot design, and evaluation for production LLM systems</li>
+  <li><b>Sentence transformers & embeddings:</b> semantic search and similarity pipelines</li>
+  <li><b>Vector databases:</b> indexing and querying for RAG and retrieval workloads</li>
+  <li><b>Transformer architectures & attention mechanisms:</b> formal study applied to real fine-tuning and inference work</li>
+</ul>
+
+###
+
+<h2 align="left">💼 Experience</h2>
+
+###
+
+<p align="left"><b>Fullstack Software Engineer</b> — Nimble <i>(Mar 2026 – Present, Remote, Guatemala)</i><br>Building and extending a core Django/SvelteKit platform to deliver custom web applications for diverse clients.</p>
+
+<ul align="left">
+  <li>Develop full-stack applications on a shared Django + SvelteKit core platform adapted per client domain</li>
+  <li>Design data models, REST API endpoints, and serialized views with Django REST Framework</li>
+  <li>Build responsive UIs with SvelteKit, TypeScript, and Tailwind CSS following pixel-perfect specs</li>
+  <li>Integrate third-party services: payment gateways, social auth, email providers</li>
+  <li>Work under SCRUM with 2-week sprints, from planning through production deployment</li>
+  <li>Enforce quality via pre-commit hooks, Black, Flake8, Prettier, pytest, and Playwright</li>
+</ul>
+
+<p align="left"><b>Junior Full-Stack Developer</b> — Workly <i>(Jul 2024 – Mar 2026, Hybrid, Guatemala)</i><br>Contributed to a scalable payroll management platform, focusing on frontend architecture and backend services.</p>
+
+<ul align="left">
+  <li>Migrated an MVP into a production-ready platform, improving performance and maintainability</li>
+  <li>Developed core features with React, Next.js, MUI, Node.js, and NestJS with TypeScript</li>
+  <li>Designed and implemented features with efficient MongoDB integration</li>
+  <li>Contributed to architectural improvements supporting long-term system growth</li>
+</ul>
+
+###
+
+<h2 align="left">🎨 Frontend</h2>
 
 ###
 
@@ -23,29 +80,49 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
 
-<h2 align="left">🖥️ Languages & Runtimes</h2>
+<h2 align="left">⚙️ Backend & APIs</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/celery/37814A" height="40" alt="celery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h2 align="left">🖥️ Languages</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -60,101 +137,37 @@
 
 ###
 
-<h2 align="left">⚛️ Front-end Frameworks & Libraries</h2>
+<h2 align="left">☁️ Cloud & DevOps</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
-</div>
-
-###
-
-<h2 align="left">🏗️ Back-end Frameworks & APIs</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-</div>
-
-###
-
-<h2 align="left">💾 Databases & Storage</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
-</div>
-
-###
-
-<h2 align="left">☁️ DevOps & Infraestructure</h2>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/playwright.svg" height="40" alt="playwright logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
 </div>
 
 ###
 
-<h2 align="left">🤖 Data Science & ML</h2>
+<h2 align="left">🔧 Systems & Networking</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-</div>
+<p align="left">POSIX Sockets · Multithreading · TCP/UDP · Protocol Design · Memory Management · Operating Systems Internals · Concurrency Control</p>
 
 ###
 
-<h2 align="left">🛠️ Tools & CI/CD</h2>
+<h2 align="left">🛠️ Tools</h2>
 
 ###
 
@@ -169,12 +182,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
 </div>
+
+###
+
+<h2 align="left">🎓 Education</h2>
+
+###
+
+<p align="left"><b>B.S. in Computer Science & IT Engineering</b> — Universidad del Valle de Guatemala<br><i>2022 – 2026 · Guatemala City, Guatemala</i></p>
+
+<ul align="left">
+  <li>Advanced coursework in Compilers, Operating Systems, Parallel & Distributed Computing, and Deep Learning</li>
+  <li>Built a complete compiler pipeline: lexical analysis, parsing, semantic analysis, and code generation</li>
+  <li>Designed simulation and optimization models applying formal mathematical methods</li>
+</ul>
 
 ###
 
