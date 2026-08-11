@@ -1,22 +1,12 @@
 <h1 align="left">Diego Valenzuela</h1>
 
-###
-
 <p align="left">Software Engineer specializing in AI Systems · Computer Science Engineer @ UVG</p>
-
-###
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">I design and engineer scalable full-stack and AI systems, blending formal computer science foundations, distributed architectures, and modern LLM tooling into production-grade solutions.<br><br>I'm a Computer Science Engineer from Universidad del Valle de Guatemala specializing in applied AI: LLM-powered systems, RAG pipelines, and model fine-tuning, backed by strong distributed-systems and compiler-level foundations. I care about taking AI from prototype to production — retrieval architectures, prompt engineering, and fine-tuning pipelines that actually hold up under real workloads.<br><br>Currently working as a Fullstack Software Engineer at Nimble, building and extending a core Django/SvelteKit platform to deliver custom web applications across diverse client domains, while driving AI tooling adoption within the team — spanning REST API design, data modeling, responsive UIs, and third-party integrations under agile SCRUM workflows.</p>
 
-###
-
 <h2 align="left">🤖 AI Specialization</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
@@ -43,17 +33,14 @@
   <li><b>Transformer architectures & attention mechanisms:</b> formal study applied to real fine-tuning and inference work</li>
 </ul>
 
-###
-
 <h2 align="left">💼 Experience</h2>
-
-###
 
 <p align="left"><b>Fullstack Software Engineer</b> — Nimble <i>(Mar 2026 – Present, Remote, Guatemala)</i><br>Building and extending a core Django/SvelteKit platform to deliver custom web applications for diverse clients.</p>
 
 <ul align="left">
-  <li>Develop full-stack applications on a shared Django + SvelteKit core platform adapted per client domain</li>
+  <li>Architect and extend a shared Django + SvelteKit core platform, adapting it into custom applications per client domain</li>
   <li>Design data models, REST API endpoints, and serialized views with Django REST Framework</li>
+  <li>Drive adoption of AI tooling within the team, including LLM-powered automation pipelines</li>
   <li>Build responsive UIs with SvelteKit, TypeScript, and Tailwind CSS following pixel-perfect specs</li>
   <li>Integrate third-party services: payment gateways, social auth, email providers</li>
   <li>Work under SCRUM with 2-week sprints, from planning through production deployment</li>
@@ -63,17 +50,13 @@
 <p align="left"><b>Junior Full-Stack Developer</b> — Workly <i>(Jul 2024 – Mar 2026, Hybrid, Guatemala)</i><br>Contributed to a scalable payroll management platform, focusing on frontend architecture and backend services.</p>
 
 <ul align="left">
-  <li>Migrated an MVP into a production-ready platform, improving performance and maintainability</li>
+  <li>Migrated a legacy MVP into a production-ready payroll platform, improving system stability, performance, and maintainability</li>
   <li>Developed core features with React, Next.js, MUI, Node.js, and NestJS with TypeScript</li>
   <li>Designed and implemented features with efficient MongoDB integration</li>
   <li>Contributed to architectural improvements supporting long-term system growth</li>
 </ul>
 
-###
-
 <h2 align="left">🎨 Frontend</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -89,11 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
-###
-
 <h2 align="left">⚙️ Backend & APIs</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
@@ -111,11 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
-
 <h2 align="left">🖥️ Languages</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -135,11 +110,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
-###
-
 <h2 align="left">☁️ Cloud & DevOps</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -157,19 +128,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
 
-###
-
 <h2 align="left">🔧 Systems & Networking</h2>
-
-###
 
 <p align="left">POSIX Sockets · Multithreading · TCP/UDP · Protocol Design · Memory Management · Operating Systems Internals · Concurrency Control</p>
 
-###
-
 <h2 align="left">🛠️ Tools</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -185,11 +148,7 @@
   <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
 </div>
 
-###
-
 <h2 align="left">🎓 Education</h2>
-
-###
 
 <p align="left"><b>B.S. in Computer Science & IT Engineering</b> — Universidad del Valle de Guatemala<br><i>2022 – 2026 · Guatemala City, Guatemala</i></p>
 
@@ -199,19 +158,26 @@
   <li>Designed simulation and optimization models applying formal mathematical methods</li>
 </ul>
 
-###
-
 <h1 align="left">🌐 Socials:</h1>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/diego-pablo-valenzuela-palacios-979054202/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://github.com/diegoval-dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo"  />
+  </a>
+  <a href="https://portfolio-2026-gamma-five.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"  />
+  </a>
 </div>
 
-###
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoval-dev&show_icons=true&theme=radical&hide_border=true" alt="Diego's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoval-dev&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="150" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoval-dev/diegoval-dev/output/pacman-contribution-graph-dark.svg">
@@ -219,4 +185,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diegoval-dev/diegoval-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-###
